@@ -1,0 +1,7 @@
+{
+  "name": "PreviewerTestProject",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
